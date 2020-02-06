@@ -15,4 +15,8 @@ How it works:
 •	The face from the database which is closest to the unknown face is declared as a recognized face.
 •	K-NN algorithm will be used for both classification and regression. 
 
+Step:1 Execute dataset.py to capture the image from webcam
+Step:2 Create a function to perform KNN classifier(KNN_function.py)
+Step:3 Execute the KNN_code.py to predict the image capture.
+
 
